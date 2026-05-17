@@ -4,7 +4,7 @@ This repository contains the source code for my personal portfolio website.
 
 The site serves as a central place to present my academic background, research, professional experience, and projects in Biomedical Engineering, Bioinformatics, and AI.
 
-🌐 **Live site:** [rodrigosvieira12.github.io/rodrigo-portfolio](https://rodrigosvieira12.github.io/rodrigo-portfolio) *(update once deployed)*
+🌐 **Live site:** [rodrigosvieira12.github.io/rodrigo-portfolio](https://rodrigosvieira12.github.io/rodrigo-portfolio)
 
 ## About me
 
@@ -31,11 +31,6 @@ rodrigo-portfolio/
 ├── js/
 │   └── main.js         # Scroll reveal + nav behaviour
 └── images/
-    ├── rodrigo.jpg
-    ├── athens-bucharest.jpg
-    ├── kuleuven-castle.jpg
-    ├── kuleuven-logo.jpg
-    └── ist-logo.jpg
 ```
 
 ## Running locally
